@@ -1,8 +1,8 @@
 import React from 'react'
-
+import S from './NavBar.module.css'
 const NavBar = () => {
   return (
-    <div>NavBar</div>
+    <nav><p>Sobre nós</p> <p>Pets</p> <p>Contatos</p></nav>
   )
 }
 

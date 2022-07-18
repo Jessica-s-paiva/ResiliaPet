@@ -1,8 +1,8 @@
 import React from 'react'
-
+import S from './Footer.module.css'
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer><small>© Todos os direitos reservados - Jéssica Paiva 2022</small></footer>
   )
 }
 
